@@ -15,17 +15,35 @@
 
 ---
 
+## 📊 GitHub 统计
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sunjiahao66688&show_icons=true&theme=algolia&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunjiahao66688&layout=compact&theme=algolia" />
+</div>
+
+---
+
 ## 🛠️ 技术栈
 
-<div align="left">
-
+### 编程语言与框架
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+
+### 数据科学
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-006699?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### AI/LLM
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+
+### 工具与平台
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-</div>
+![Requests](https://img.shields.io/badge/Requests-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
@@ -40,9 +58,8 @@
 
 ## 🌱 正在学习
 
-- 深入探索 Python Web 开发
-- 数据分析与机器学习基础
-- 代码规范与性能优化
+- **LangChain 相关内容** - LLM 应用开发
+- **AI 相关技术** - 大语言模型和智能应用
 
 ---
 
@@ -51,6 +68,17 @@
 > "无论 Web 开发、数据分析、自动化任务还是脚本工具，我都乐于把想法变成实际可运行的程序。"
 
 欢迎来到我的代码世界，让我们一起创造精彩的项目！ 🚀
+
+---
+
+## 💰 赞赏支持
+
+如果我的项目对你有帮助，欢迎打赏支持！
+
+<div align="center">
+  <img src="https://cloudflarecnimg.scdn.io/i/69f9d29706694_1777980055.webp" width="200" alt="微信赞赏码" />
+  <p><em>微信赞赏</em></p>
+</div>
 
 ---
 
