@@ -2,7 +2,7 @@
 
 # 👋 你好，欢迎来到我的主页！
 
-### 我是孙家豪，一名热爱编程的 Python 开发者
+### 我是SunJiahao，一名热爱编程的 Python 开发者
 
 <a href="https://github.com/sunjiahao66688">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -49,7 +49,6 @@
 ### 开发工具
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Requests](https://img.shields.io/badge/Requests-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ---
 
